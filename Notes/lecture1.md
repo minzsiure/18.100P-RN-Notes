@@ -69,8 +69,8 @@
 
 ### C) Operations between Sets
 #### C.1) Definitions. Let $A, B$ be sets:
-1.  The **union** of $A$ and $B$ is the set $A \cup B := \{x: x\in A$ or $x\in B\}$.
-2. The **intersection** of $A, B$ is the set $A \cap B := \{x:x\in A$ and $x \in B\}$.
+1.  The **union** of $A$ and $B$ is the set $A \cup B := \{x: x\in A \text{ or } x\in B\}$.
+2. The **intersection** of $A, B$ is the set $A \cap B := \{x:x\in A \text{ and } x \in B\}$.
 3. The **set difference** of $A, B$ is $A \setminus B := \{x \in A: x\notin B\}$.
 4. The **complements** of $A$, denoted by $A^c := \{x:x \notin A\}$.
 5. $A$ and $B$ are **disjoint** if $A \cap B = \emptyset$. 
