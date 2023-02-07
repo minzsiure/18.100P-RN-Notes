@@ -63,7 +63,7 @@
 2. We can order the following
     * $N = \{1,2,3,4, \cdots\}$, "Natural numbers"
     * $Z = \{0,1,-1,2,-2, \cdots\}$, "Integers"
-    * $Q = \{\frac{m}{n}:m,n \in Z$ s.t. $n\neq 0\}$, "Rationals"
+    * $Q = \{\frac{m}{n}:m,n \in Z \text{ s.t. } n\neq 0\}$, "Rationals"
     * $R$, "Real numbers"
 3. $N \subset Z \subset Q \subset R$ 
 
