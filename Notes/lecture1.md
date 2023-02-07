@@ -1,4 +1,4 @@
-# 18.100P Lecture 1
+# 18.100P Lecture 1 Quantifiers and Basic Set Theory
 ## 1. Logistics
 * Mat Rosenzwag, mrosenzw@mit.edu
 * Recitations are mandatory but lectures are not.
