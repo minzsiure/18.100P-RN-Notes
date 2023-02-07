@@ -104,11 +104,12 @@ Thus we proved $(B\cup C)^c = B^c \cap C^c$. $\square$
 1. $\{x \in N: x^2 < 6\}$ = $\{1, 2\}$
 2. $\{x \in Z: x^2 < 6\}$ = $\{-2, -1, 0, 1, 2\}$
 3. $\{x \in R: x^2 < 6\}$ [graph]
+![](https://i.imgur.com/xyWdc8s.png)
 
 Which of the following describes the even numbers?
 1. $\{x \in Z: \forall y \in Z, x = 2y\}$
 2. $\{x \in Z: \exists y \in Z, x = 2y\}$ [This one]
 
-![](https://i.imgur.com/xyWdc8s.png)
+
 
 
