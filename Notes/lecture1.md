@@ -1,4 +1,4 @@
-# 18.100P Lecture 1 Quantifiers and Basic Set Theory
+# 18.100P Lecture 1: Logical Quantifiers, Negation, Basic Set Theory, DeMorgan Thm
 [toc]
 ## 1. Logistics
 * Mat Rosenzwag, mrosenzw@mit.edu
