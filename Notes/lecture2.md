@@ -1,4 +1,4 @@
-# 18.100P Lecture 2
+# 18.100P Lecture 2: Logic Conjunction, Induction
 Last lecture, we went over
 * Quantifiers $\forall, \exists$
 * Logical statements
