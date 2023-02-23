@@ -105,8 +105,8 @@ Last class:
     * Q is an ordered field.
 * **Nonexamples**
     * $Z_2$ is not an ordered field.  
-        * Suppose $0 < 1 \Rightarrow 0 + 1 ? 1+1 \Rightarrow 1 > 0$ $\#$
-        * Suppose $1 < 0 \Rightarrow 1 + 1 < 0 + 1 \Rightarrow 0 < 1 \#$
+        * Suppose $0 < 1 \Rightarrow 0 + 1 ? 1+1 \Rightarrow 1 > 0$ #
+        * Suppose $1 < 0 \Rightarrow 1 + 1 < 0 + 1 \Rightarrow 0 < 1$ #
         
 * **[Proposition 1]:** $x > 0$ iff $-x < 0$. *(Proposition 1.1.8 in Lebl)*
     * ***Proof.*** $x \in F$, $x > 0$. Then by [1] in ordered field definition, choose $z = -x$, 
