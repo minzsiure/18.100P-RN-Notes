@@ -1,4 +1,4 @@
-# 18.100P Lecture 10
+# 18.100P Lecture 10 Cauchy Sequences, Series
 Last time
 * limsup, liminf
 * Cauchy Sequences
